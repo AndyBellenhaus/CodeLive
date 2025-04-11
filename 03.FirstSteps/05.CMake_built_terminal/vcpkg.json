@@ -1,3 +1,9 @@
 {
-  "dependencies": [ "fmt", "zlib" ]
+  "name": "rocket",
+  "version": "0.1.0",
+  "dependencies": [
+    "fmt",
+    "zlib"
+  ],
+  "builtin-baseline": "f9a99aa79c1309001e36572fa42d7d8edebfc451"
 }
