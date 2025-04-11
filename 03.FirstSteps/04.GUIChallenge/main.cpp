@@ -4,15 +4,12 @@
         . Topic #2
 */
 
-//This will comment out the entire line
+// This will comment out the entire line
 
- import utilities;
+import utilities;
 
-
-
- int main()
- {
+int main()
+{
     app();
     return 0;
- }
- 
+}
